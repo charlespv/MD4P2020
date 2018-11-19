@@ -31,13 +31,22 @@ Le document qui vous permettra de survivre cette année #KohLanta
   ### Support 
   - https://www.outofpluto.com/formation/introduction-a-python/
   ### Notebook
-  - Cours 1 et 2 : https://colab.research.google.com/drive/11fkm0H_1Nl8TdDFuAPgbcvlal_6_KegI
+  - Cours 1 et 2 : https://colab.research.google.com/drive/11fkm0H_1Nl8TdDFuAPgbcvlal_6_KegI (Thanks to Pierre Boquillon)
 
 ## Data Science
+  ### Numpy
+  - 
+  ### Pandas
+  - 
+  
+  ### Dataviz
+  - 
+  
   ### Ressources
-   - https://plot.ly/python/
-   - https://www.kaggle.com/deffro/eda-is-fun#
-   - 
+  - https://plot.ly/python/
+  - https://www.kaggle.com/deffro/eda-is-fun#
+  - https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf/
+  - https://chrisalbon.com/
 
 ## Algorithme
 
