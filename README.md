@@ -40,8 +40,7 @@ Le document qui vous permettra de survivre cette année #KohLanta
   ### Numpy
   - 
   ### Pandas
-  https://drive.google.com/drive/folders/1fytqhl0gRD77eXE2Mz3YrsEw5eZGNrq2
-  - 
+  - https://drive.google.com/drive/folders/1fytqhl0gRD77eXE2Mz3YrsEw5eZGNrq2
   
   ### Dataviz
   - https://drive.google.com/drive/folders/1F5mPxvPLIaPa4IKXfDikaGKdwADuDEJm
@@ -64,6 +63,11 @@ Le document qui vous permettra de survivre cette année #KohLanta
   - Indeed : https://www.indeed.fr/
   - Welcome To Jungle : https://welcometothejungle.co
   - La section "Emplois" de Linkedin
+  
+  ### Articles : 
+  - https://carrieres.pwc.fr/fr/decouvrir-pwc/nos-actualites/5-conseils-pour-preparer-son-entretien-dembauche.html
+  - https://www.welcometothejungle.co/articles/le-metier-de-data-analyst
+  - https://www.linkedin.com/pulse/4-questions-%C3%A0-poser-un-data-web-analyst-micka%C3%ABl-kepler-1/
 
 ## Aléatoire
 
