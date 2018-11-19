@@ -66,6 +66,6 @@ Le document qui vous permettra de survivre cette année #KohLanta
 
 ### Miam !
  - Pizza Five (€) : https://www.google.fr/maps/dir/HETIC,+Montreuil/O+PIZZA+FIVE/@48.8504615,2.4204072,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47e67283047127a9:0x5a597564e51389ac!2m2!1d2.420584!2d48.851846!1m5!1m1!1s0x47e6729b67dc0001:0x5229289d018ed2cd!2m2!1d2.4241035!2d48.8489389
- - Cinéma : UGC Bercy, tarifs : https://www.ugc.fr/cinema.html?id=12
+ - Cinéma : UGC Bercy (€) : https://www.ugc.fr/cinema.html?id=12
  - Name (€€€) : URL 
  
