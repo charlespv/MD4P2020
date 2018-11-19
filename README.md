@@ -26,6 +26,7 @@ Le document qui vous permettra de survivre cette année #KohLanta
   ### Notes 
    - Une variable aléatoire représente l'ensemble des expériences. 
    - Une variable discrete est qualitative alors qu'une variable continue est quantitative
+   - Par coeur : formules de la variance, de l'écart-type, relation avec l'espérance
 
 ## Python 
   ### Support 
@@ -37,6 +38,7 @@ Le document qui vous permettra de survivre cette année #KohLanta
   ### Numpy
   - 
   ### Pandas
+  https://drive.google.com/drive/folders/1fytqhl0gRD77eXE2Mz3YrsEw5eZGNrq2
   - 
   
   ### Dataviz
@@ -65,4 +67,6 @@ Le document qui vous permettra de survivre cette année #KohLanta
 
 ### Miam !
  - Pizza Five (€) : https://www.google.fr/maps/dir/HETIC,+Montreuil/O+PIZZA+FIVE/@48.8504615,2.4204072,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47e67283047127a9:0x5a597564e51389ac!2m2!1d2.420584!2d48.851846!1m5!1m1!1s0x47e6729b67dc0001:0x5229289d018ed2cd!2m2!1d2.4241035!2d48.8489389
- - Name (€€€) : URL google map
+ - Cinéma : UGC Bercy (€) : https://www.ugc.fr/cinema.html?id=12
+ - Name (€€€) : URL 
+ 
