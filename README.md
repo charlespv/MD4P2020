@@ -10,12 +10,12 @@ Le document qui vous permettra de survivre cette année #KohLanta
   ### TD 
 
   #### TD 1 :
-    - http://artw.fr/etu/hetic/proba-td1.html 
-    - http://artw.fr/etu/hetic/proba-td1c.html
+  - http://artw.fr/etu/hetic/proba-td1.html 
+  - http://artw.fr/etu/hetic/proba-td1c.html
   
   #### TD 2 :
-    - http://artw.fr/etu/hetic/proba-td2.html 
-    - http://artw.fr/etu/hetic/proba-td2c.html
+  - http://artw.fr/etu/hetic/proba-td2.html 
+  - http://artw.fr/etu/hetic/proba-td2c.html
   
   ### Lois
   https://colab.research.google.com/drive/1Kv1EOs3clkt2jWnKx39xYzYuBJHk_DPm
@@ -29,9 +29,9 @@ Le document qui vous permettra de survivre cette année #KohLanta
 
 ## Python 
   ### Support 
-    - https://www.outofpluto.com/formation/introduction-a-python/
+  - https://www.outofpluto.com/formation/introduction-a-python/
   ### Notebook
-    - Cours 1 et 2 : https://colab.research.google.com/drive/11fkm0H_1Nl8TdDFuAPgbcvlal_6_KegI
+  - Cours 1 et 2 : https://colab.research.google.com/drive/11fkm0H_1Nl8TdDFuAPgbcvlal_6_KegI
 
 ## Data Science
   ### Ressources
@@ -44,13 +44,13 @@ Le document qui vous permettra de survivre cette année #KohLanta
 ## Insertion Pro
 
   ### Salon :
-    - Data Job : https://www.datajob.fr/
-    - Big Data Corp : https://www.bigdataparis.com/2019/
+  - Data Job : https://www.datajob.fr/
+  - Big Data Corp : https://www.bigdataparis.com/2019/
     
   ### Plateforme :
-    - Indeed : https://www.indeed.fr/
-    - Welcome To Jungle : https://welcometothejungle.co
-    - La section "Emplois" de Linkedin
+  - Indeed : https://www.indeed.fr/
+  - Welcome To Jungle : https://welcometothejungle.co
+  - La section "Emplois" de Linkedin
 
 ## Aléatoire
 
