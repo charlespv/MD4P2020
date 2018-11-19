@@ -40,6 +40,7 @@ Le document qui vous permettra de survivre cette année #KohLanta
   ### Numpy
   - 
   ### Pandas
+  https://drive.google.com/drive/folders/1fytqhl0gRD77eXE2Mz3YrsEw5eZGNrq2
   - 
   
   ### Dataviz
