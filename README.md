@@ -3,7 +3,7 @@
 Le document qui vous permettra de survivre cette année #KohLanta
 
 ## Admin
-  - Google agenda : https://calendar.google.com/calendar/embed?src=o1e9g49mmium9nsllrsoqnkmfo%40group.calendar.google.com&ctz=Europe%2FParis
+  - Google agenda: https://calendar.google.com/calendar/ical/o1e9g49mmium9nsllrsoqnkmfo%40group.calendar.google.com/public/basic.ics
   - Google Drive de la promo : https://drive.google.com/drive/folders/1tkgFI46hqgU6EwxntWK_pvTN7VvykYEF?usp=sharing 
 
 ## Mathématiques
