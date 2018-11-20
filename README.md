@@ -62,6 +62,8 @@ Le document qui vous permettra de survivre cette année #KohLanta
   - perceptron : https://www.lesechos.fr/idees-debats/sciences-prospective/010175528502-1957-le-perceptron-premiere-machine-apprenante-2108927.php
   - Quick sort dance : https://www.youtube.com/watch?v=ywWBy6J5gz8
   - Cuda : https://www.youtube.com/watch?v=JFhG9UntZs4
+  - BDD et compléxité : Couchdb, Redis, neo4j
+  - https://query.wikidata.org/ 
   - Misc:
     - https://fr.wikipedia.org/wiki/Nasr_Eddin_Hodja
 
