@@ -50,6 +50,11 @@ Le document qui vous permettra de survivre cette année #KohLanta
   - https://www.kaggle.com/deffro/eda-is-fun#
   - https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf/
   - https://chrisalbon.com/
+  - https://github.com/Shujian2015/FreeML
+  - Udacity : https://github.com/charlespv/data-analyst-nd
+  - Video:
+    - ML https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
+    - ML https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 ## Algorithme
 
