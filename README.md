@@ -85,9 +85,13 @@ Le document qui vous permettra de survivre cette année #KohLanta
 
 ## Aléatoire
 
+### Pour les curieux
+ - Initiation à la cybersécurité : https://www.root-me.org/
+ - Challenge de codes : https://www.codingame.com/start
+
 ### Miam !
  - Super U Express : https://www.google.fr/maps/place/U+Express/@48.8520363,2.4214979,17.12z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47e67283047127a9:0x5a597564e51389ac!2sHETIC,+27+Bis+Rue+du+Progr%C3%A8s,+93100+Montreuil,+France!2m2!1d2.420584!2d48.851846!1m6!1m2!1s0x47e612af1b5ecc39:0x8fb9a30bfbb3b299!2sSuper+U+et+drive,+170-174+Rue+de+la+Nouvelle+France,+93100+Montreuil!2m2!1d2.4659524!2d48.8604924!3e3!3m4!1s0x47e6729d4c9f8b21:0x4d0ff148fe94f167!8m2!3d48.8536587!4d2.423296
  - Pizza Five (€) : https://www.google.fr/maps/dir/HETIC,+Montreuil/O+PIZZA+FIVE/@48.8504615,2.4204072,17z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x47e67283047127a9:0x5a597564e51389ac!2m2!1d2.420584!2d48.851846!1m5!1m1!1s0x47e6729b67dc0001:0x5229289d018ed2cd!2m2!1d2.4241035!2d48.8489389
  - Cinéma : UGC Bercy (€) : https://www.ugc.fr/cinema.html?id=12
- - Name (€€€) : URL 
+ - 
  
