@@ -55,6 +55,10 @@ Le document qui vous permettra de survivre cette année #KohLanta
   - Video:
     - ML https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
     - ML https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+    
+## SQL
+  ### Ressources
+  - https://openclassrooms.com/fr/courses/4449026-initiez-vous-a-lalgebre-relationnelle-avec-le-langage-sql
 
 ## Algorithme
 
