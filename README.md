@@ -74,7 +74,15 @@ Le document qui vous permettra de survivre cette année #KohLanta
 ## Insertion Pro
 
   ### Salon :
-  - Data Job : https://www.datajob.fr/
+  - Data Job : https://www.datajob.fr/ :
+    - ITNOVEM : recrutement@itnovem.com
+    - Dataiku : maite.legoadec@dataiku.com (à contacter courant février)
+    - Content Square : Coline Monier (à contacter courant février)
+    - Le Bon Coin : Stéphanie Leplus
+    - Caisse des dépots : emilie.muelle@caissedesdepots.fr
+    - Accenture : charles-henri.ginter@accenture.com
+    - Ouisncf : loliveira@oui.sncf
+    - Extia : Emmanuelle Bois
   - Big Data Corp : https://www.bigdataparis.com/2019/
     
   ### Plateforme :
