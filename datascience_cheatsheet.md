@@ -1,7 +1,3 @@
-```python
-Code
-```
-
 # Data Science Cheatsheet
 
 ## Numpy
@@ -118,7 +114,6 @@ user1.iloc[0, 1]
 user1.isna().sum()
 ```
 
-
 ### Concatenate
 
 ```python
@@ -143,6 +138,59 @@ users.drop('index', axis=1)
 users.nunique
 users.unique # Return unique values of Series object
 ```
+
+### Count frequency
+
+```python
+users.gender.value_counts()
+```
+
+### Details of dataframe
+
+```python
+user.describe()
+user.describe(include='all')
+```
+
+```python
+user.head()
+user.tail()
+```
+
+## DataViz
+
+### Import
+
+```python
+import seaborn as sns
+import matplotlib.pyplot as plt
+%matplotlib inline
+```
+
+### Bar plot
+
+```python
+df.value_counts().plot_bar()
+```
+
+### Histogramme plot
+
+```python
+df.value_counts().plot_hist()
+```
+
+### Scatter plot
+```python
+df.plot.scatter('','')
+```
+
+### Box plot
+```python
+sns.boxplot.(x='education", y='salary', hue='management', data=salary)
+```
+
+
+
 
 
 
