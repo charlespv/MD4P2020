@@ -55,6 +55,7 @@ Le document qui vous permettra de survivre cette année #KohLanta
   - Video:
     - ML https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
     - ML https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+  - Build neural network from scratch with Python : https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6
     
 ## SQL
   ### Ressources
