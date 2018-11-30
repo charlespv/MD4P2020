@@ -48,6 +48,9 @@ Le document qui vous permettra de survivre cette année #KohLanta
   ## Dataset
   - https://github.com/regardscitoyens/nosdeputes.fr/blob/master/doc/opendata.md
   
+  ## Machine Learning 
+  - https://www.saedsayad.com/decision_tree_reg.htm
+  
   ### Ressources
   - https://plot.ly/python/
   - https://www.kaggle.com/deffro/eda-is-fun#
