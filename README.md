@@ -45,6 +45,9 @@ Le document qui vous permettra de survivre cette année #KohLanta
   ### Dataviz
   - https://drive.google.com/drive/folders/1F5mPxvPLIaPa4IKXfDikaGKdwADuDEJm
   
+  ## Dataset
+  - https://github.com/regardscitoyens/nosdeputes.fr/blob/master/doc/opendata.md
+  
   ### Ressources
   - https://plot.ly/python/
   - https://www.kaggle.com/deffro/eda-is-fun#
@@ -69,6 +72,12 @@ Le document qui vous permettra de survivre cette année #KohLanta
   - Cuda : https://www.youtube.com/watch?v=JFhG9UntZs4
   - BDD et compléxité : Couchdb, Redis, neo4j
   - https://query.wikidata.org/ 
+  - https://www.oclc.org/fr/worldcat.html
+  - https://www.crossref.org/
+  - https://share.osf.io/
+  - https://phys.org/
+  - https://www.epo.org/searching-for-patents/business/patstat_fr.html#tab-1
+  
   - Misc:
     - https://fr.wikipedia.org/wiki/Nasr_Eddin_Hodja
 
@@ -95,6 +104,10 @@ Le document qui vous permettra de survivre cette année #KohLanta
   - https://carrieres.pwc.fr/fr/decouvrir-pwc/nos-actualites/5-conseils-pour-preparer-son-entretien-dembauche.html
   - https://www.welcometothejungle.co/articles/le-metier-de-data-analyst
   - https://www.linkedin.com/pulse/4-questions-%C3%A0-poser-un-data-web-analyst-micka%C3%ABl-kepler-1/
+  
+  ### Business :
+  - www.business-angel-france.com
+  
 
 ## Aléatoire
 
