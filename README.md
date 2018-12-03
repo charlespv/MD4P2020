@@ -44,6 +44,7 @@ Le document qui vous permettra de survivre cette année #KohLanta
   
   ### Dataviz
   - https://drive.google.com/drive/folders/1F5mPxvPLIaPa4IKXfDikaGKdwADuDEJm
+  - https://flowingdata.com/ 
   
   ## Dataset
   - https://github.com/regardscitoyens/nosdeputes.fr/blob/master/doc/opendata.md
