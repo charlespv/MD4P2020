@@ -97,6 +97,7 @@ Le document qui vous permettra de survivre cette année #KohLanta
     - Accenture : charles-henri.ginter@accenture.com
     - Ouisncf : loliveira@oui.sncf
     - Extia : Emmanuelle Bois
+    - Tiny Clues : freddy.guitton@gmail.com
   - Big Data Corp : https://www.bigdataparis.com/2019/
     
   ### Plateforme :
